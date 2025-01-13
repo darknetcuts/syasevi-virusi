@@ -1,3 +1,11 @@
+### ONLY ON LEGACY/BIOS MODE! ТОЛЬКО ДЛЯ LEGACY/BIOS МОДА!
+
+# What this?
+This is Mischa and Petya Ransomware Viruses :)
+
+# Что это?
+Это вирусы Петя и Миша :)
+
 # Warning
 It is important to emphasize that I bear no responsibility for any actions performed with these viruses. Any usage of these viruses is solely at your own risk. Proceed with caution and exercise ethical judgment.
 
